@@ -1,3 +1,4 @@
+package introducao;
 import java.util.*; //importing Scanner and Locale
 
 public class ScannerInput {
