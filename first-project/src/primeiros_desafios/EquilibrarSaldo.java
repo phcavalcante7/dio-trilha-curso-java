@@ -3,7 +3,7 @@ package primeiros_desafios;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class DesafioSaldo {
+public class EquilibrarSaldo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         DecimalFormat formato = new DecimalFormat("#.0");

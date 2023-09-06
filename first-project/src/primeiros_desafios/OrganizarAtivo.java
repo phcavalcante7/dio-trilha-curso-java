@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class DesafioOrganizaAtivo {
+public class OrganizarAtivo {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     ArrayList <String> ativos = new ArrayList<>();
